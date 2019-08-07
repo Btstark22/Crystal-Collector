@@ -1,0 +1,33 @@
+body {
+    background-color: goldenrod;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+header {
+    text-align: center;
+    background-color: grey;
+    color: white;
+    border: 1px solid black;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 50px;
+}
+#rules {
+    text-align: center;
+    border: 1px solid black;
+    background: maroon;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#rulehead {
+    font-size: 20px;
+}
+img {
+    width: 24.5%;
+
+}
+#images {
+    width: 100%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
